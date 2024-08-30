@@ -1,5 +1,3 @@
-cd SauceDemo/src
-
 # SauceDemo Automation Testing
 
 This project contains automated tests for the SauceDemo e-commerce website using Python, Selenium WebDriver, and pytest. The tests include scenarios for valid login, invalid login, and login with empty fields.
